@@ -1,0 +1,15 @@
+C:\Users\Sam\Documents\C# Projects\Course\Course\bin\Debug\net7.0\Course.exe
+C:\Users\Sam\Documents\C# Projects\Course\Course\bin\Debug\net7.0\Course.deps.json
+C:\Users\Sam\Documents\C# Projects\Course\Course\bin\Debug\net7.0\Course.runtimeconfig.json
+C:\Users\Sam\Documents\C# Projects\Course\Course\bin\Debug\net7.0\Course.dll
+C:\Users\Sam\Documents\C# Projects\Course\Course\bin\Debug\net7.0\Course.pdb
+C:\Users\Sam\Documents\C# Projects\Course\Course\obj\Debug\net7.0\Course.csproj.AssemblyReference.cache
+C:\Users\Sam\Documents\C# Projects\Course\Course\obj\Debug\net7.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sam\Documents\C# Projects\Course\Course\obj\Debug\net7.0\Course.AssemblyInfoInputs.cache
+C:\Users\Sam\Documents\C# Projects\Course\Course\obj\Debug\net7.0\Course.AssemblyInfo.cs
+C:\Users\Sam\Documents\C# Projects\Course\Course\obj\Debug\net7.0\Course.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\C# Projects\Course\Course\obj\Debug\net7.0\Course.dll
+C:\Users\Sam\Documents\C# Projects\Course\Course\obj\Debug\net7.0\refint\Course.dll
+C:\Users\Sam\Documents\C# Projects\Course\Course\obj\Debug\net7.0\Course.pdb
+C:\Users\Sam\Documents\C# Projects\Course\Course\obj\Debug\net7.0\Course.genruntimeconfig.cache
+C:\Users\Sam\Documents\C# Projects\Course\Course\obj\Debug\net7.0\ref\Course.dll

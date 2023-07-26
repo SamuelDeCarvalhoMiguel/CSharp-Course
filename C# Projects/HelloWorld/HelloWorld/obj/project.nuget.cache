@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZVwqNMVcM6wYahzwmMwUBJw36tgIq8/vSYfqTxBNSKGmRKVIW9cWD7MjjIFzhZxGxWRjS3OK3noWOoMW1BF8lA==",
+  "dgSpecHash": "pJS8bfzAVrWIRJ8y6MtvhBiGK2WxzMy49iijd1Ks9USQAUrAeR2UZr4vmaPsAtZLrEhj4yxGXcEUkpl6C2HE/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sam\\Documents\\C# Projects\\HelloWorld\\HelloWorld\\FirstProject.csproj",
+  "projectFilePath": "C:\\Users\\Sam\\Documents\\CSharp-Course\\C# Projects\\HelloWorld\\HelloWorld\\FirstProject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

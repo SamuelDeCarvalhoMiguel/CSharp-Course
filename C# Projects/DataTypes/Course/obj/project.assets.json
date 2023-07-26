@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sam\\Documents\\CSharp-Course\\C# Projects\\HelloWorld\\HelloWorld\\FirstProject.csproj",
-      "projectName": "FirstProject",
-      "projectPath": "C:\\Users\\Sam\\Documents\\CSharp-Course\\C# Projects\\HelloWorld\\HelloWorld\\FirstProject.csproj",
+      "projectUniqueName": "C:\\Users\\Sam\\Documents\\CSharp-Course\\C# Projects\\DataTypes\\Course\\DataType.csproj",
+      "projectName": "DataType",
+      "projectPath": "C:\\Users\\Sam\\Documents\\CSharp-Course\\C# Projects\\DataTypes\\Course\\DataType.csproj",
       "packagesPath": "C:\\Users\\Sam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sam\\Documents\\CSharp-Course\\C# Projects\\HelloWorld\\HelloWorld\\obj\\",
+      "outputPath": "C:\\Users\\Sam\\Documents\\CSharp-Course\\C# Projects\\DataTypes\\Course\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sam\\AppData\\Roaming\\NuGet\\NuGet.Config",
