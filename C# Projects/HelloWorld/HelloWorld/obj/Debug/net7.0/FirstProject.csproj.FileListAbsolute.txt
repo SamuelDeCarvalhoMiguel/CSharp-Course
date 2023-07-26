@@ -1,0 +1,15 @@
+C:\Users\Sam\Documents\C# Projects\HelloWorld\HelloWorld\bin\Debug\net7.0\FirstProject.exe
+C:\Users\Sam\Documents\C# Projects\HelloWorld\HelloWorld\bin\Debug\net7.0\FirstProject.deps.json
+C:\Users\Sam\Documents\C# Projects\HelloWorld\HelloWorld\bin\Debug\net7.0\FirstProject.runtimeconfig.json
+C:\Users\Sam\Documents\C# Projects\HelloWorld\HelloWorld\bin\Debug\net7.0\FirstProject.dll
+C:\Users\Sam\Documents\C# Projects\HelloWorld\HelloWorld\bin\Debug\net7.0\FirstProject.pdb
+C:\Users\Sam\Documents\C# Projects\HelloWorld\HelloWorld\obj\Debug\net7.0\FirstProject.csproj.AssemblyReference.cache
+C:\Users\Sam\Documents\C# Projects\HelloWorld\HelloWorld\obj\Debug\net7.0\FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sam\Documents\C# Projects\HelloWorld\HelloWorld\obj\Debug\net7.0\FirstProject.AssemblyInfoInputs.cache
+C:\Users\Sam\Documents\C# Projects\HelloWorld\HelloWorld\obj\Debug\net7.0\FirstProject.AssemblyInfo.cs
+C:\Users\Sam\Documents\C# Projects\HelloWorld\HelloWorld\obj\Debug\net7.0\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\C# Projects\HelloWorld\HelloWorld\obj\Debug\net7.0\FirstProject.dll
+C:\Users\Sam\Documents\C# Projects\HelloWorld\HelloWorld\obj\Debug\net7.0\refint\FirstProject.dll
+C:\Users\Sam\Documents\C# Projects\HelloWorld\HelloWorld\obj\Debug\net7.0\FirstProject.pdb
+C:\Users\Sam\Documents\C# Projects\HelloWorld\HelloWorld\obj\Debug\net7.0\FirstProject.genruntimeconfig.cache
+C:\Users\Sam\Documents\C# Projects\HelloWorld\HelloWorld\obj\Debug\net7.0\ref\FirstProject.dll
