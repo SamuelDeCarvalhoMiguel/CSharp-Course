@@ -1,0 +1,15 @@
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\DataOutput\DataOutput\bin\Debug\net7.0\DataOutput.exe
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\DataOutput\DataOutput\bin\Debug\net7.0\DataOutput.deps.json
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\DataOutput\DataOutput\bin\Debug\net7.0\DataOutput.runtimeconfig.json
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\DataOutput\DataOutput\bin\Debug\net7.0\DataOutput.dll
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\DataOutput\DataOutput\bin\Debug\net7.0\DataOutput.pdb
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\DataOutput\DataOutput\obj\Debug\net7.0\DataOutput.csproj.AssemblyReference.cache
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\DataOutput\DataOutput\obj\Debug\net7.0\DataOutput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\DataOutput\DataOutput\obj\Debug\net7.0\DataOutput.AssemblyInfoInputs.cache
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\DataOutput\DataOutput\obj\Debug\net7.0\DataOutput.AssemblyInfo.cs
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\DataOutput\DataOutput\obj\Debug\net7.0\DataOutput.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\DataOutput\DataOutput\obj\Debug\net7.0\DataOutput.dll
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\DataOutput\DataOutput\obj\Debug\net7.0\refint\DataOutput.dll
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\DataOutput\DataOutput\obj\Debug\net7.0\DataOutput.pdb
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\DataOutput\DataOutput\obj\Debug\net7.0\DataOutput.genruntimeconfig.cache
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\DataOutput\DataOutput\obj\Debug\net7.0\ref\DataOutput.dll
