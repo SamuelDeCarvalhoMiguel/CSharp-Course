@@ -1,0 +1,15 @@
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\SequentialStructures\SequentialStructures\bin\Debug\net7.0\SequentialStructures.exe
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\SequentialStructures\SequentialStructures\bin\Debug\net7.0\SequentialStructures.deps.json
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\SequentialStructures\SequentialStructures\bin\Debug\net7.0\SequentialStructures.runtimeconfig.json
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\SequentialStructures\SequentialStructures\bin\Debug\net7.0\SequentialStructures.dll
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\SequentialStructures\SequentialStructures\bin\Debug\net7.0\SequentialStructures.pdb
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\SequentialStructures\SequentialStructures\obj\Debug\net7.0\SequentialStructures.csproj.AssemblyReference.cache
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\SequentialStructures\SequentialStructures\obj\Debug\net7.0\SequentialStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\SequentialStructures\SequentialStructures\obj\Debug\net7.0\SequentialStructures.AssemblyInfoInputs.cache
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\SequentialStructures\SequentialStructures\obj\Debug\net7.0\SequentialStructures.AssemblyInfo.cs
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\SequentialStructures\SequentialStructures\obj\Debug\net7.0\SequentialStructures.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\SequentialStructures\SequentialStructures\obj\Debug\net7.0\SequentialStructures.dll
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\SequentialStructures\SequentialStructures\obj\Debug\net7.0\refint\SequentialStructures.dll
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\SequentialStructures\SequentialStructures\obj\Debug\net7.0\SequentialStructures.pdb
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\SequentialStructures\SequentialStructures\obj\Debug\net7.0\SequentialStructures.genruntimeconfig.cache
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\SequentialStructures\SequentialStructures\obj\Debug\net7.0\ref\SequentialStructures.dll

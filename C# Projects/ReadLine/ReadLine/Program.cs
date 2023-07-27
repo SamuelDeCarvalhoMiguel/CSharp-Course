@@ -9,7 +9,7 @@ namespace ReadLine
 
             //example1();
             //example2();
-            Exercise.exercise1();
+            //Exercise.exercise1();
 
         }
 

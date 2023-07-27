@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "SequentialStructures/1.0.0": {
+        "runtime": {
+          "SequentialStructures.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SequentialStructures/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
