@@ -29,7 +29,7 @@ namespace DataOutput
             Console.WriteLine($"Register: {age} years old, code {code} and gender {gender}");
             Console.WriteLine($"measure to 8 decimal places: {measure}");
             Console.WriteLine($"measure to 3 decimal places: {measure}");
-            Console.WriteLine("measure to 3 decimal places: " + measure.ToString("F2", CultureInfo.InvariantCulture));
+            Console.WriteLine("measure to 3 decimal places: " + measure.ToString("f3", CultureInfo.InvariantCulture));
 
 
 

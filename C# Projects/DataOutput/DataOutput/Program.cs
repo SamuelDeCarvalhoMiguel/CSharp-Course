@@ -10,7 +10,7 @@ namespace DataOutput
             //example1();
             //example2();
             //example3();
-            //Exercise.Exercise1();
+            Exercise.Exercise1();
 
         }
 

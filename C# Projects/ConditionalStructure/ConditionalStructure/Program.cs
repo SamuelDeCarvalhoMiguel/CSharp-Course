@@ -1,4 +1,6 @@
-﻿namespace ConditionalStructure
+﻿using System;
+
+namespace ConditionalStructure
 {
     internal class Program
     {
@@ -7,7 +9,15 @@
 
             //example1();
             //example2();
-            
+            //Exercise.exercise1();
+            //Exercise.exercise2();
+            //Exercise.exercise3();
+            //Exercise.exercise4();
+            //Exercise.exercise5();
+            //Exercise.exercise6();
+            //Exercise.exercise7();
+            Exercise.exercise8();
+
         }
 
         static void example1()
