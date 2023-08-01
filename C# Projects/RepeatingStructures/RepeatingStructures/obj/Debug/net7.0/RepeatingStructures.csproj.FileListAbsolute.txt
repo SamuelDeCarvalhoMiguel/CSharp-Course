@@ -1,0 +1,15 @@
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\RepeatingStructures\RepeatingStructures\bin\Debug\net7.0\RepeatingStructures.exe
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\RepeatingStructures\RepeatingStructures\bin\Debug\net7.0\RepeatingStructures.deps.json
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\RepeatingStructures\RepeatingStructures\bin\Debug\net7.0\RepeatingStructures.runtimeconfig.json
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\RepeatingStructures\RepeatingStructures\bin\Debug\net7.0\RepeatingStructures.dll
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\RepeatingStructures\RepeatingStructures\bin\Debug\net7.0\RepeatingStructures.pdb
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\RepeatingStructures\RepeatingStructures\obj\Debug\net7.0\RepeatingStructures.csproj.AssemblyReference.cache
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\RepeatingStructures\RepeatingStructures\obj\Debug\net7.0\RepeatingStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\RepeatingStructures\RepeatingStructures\obj\Debug\net7.0\RepeatingStructures.AssemblyInfoInputs.cache
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\RepeatingStructures\RepeatingStructures\obj\Debug\net7.0\RepeatingStructures.AssemblyInfo.cs
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\RepeatingStructures\RepeatingStructures\obj\Debug\net7.0\RepeatingStructures.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\RepeatingStructures\RepeatingStructures\obj\Debug\net7.0\RepeatingStructures.dll
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\RepeatingStructures\RepeatingStructures\obj\Debug\net7.0\refint\RepeatingStructures.dll
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\RepeatingStructures\RepeatingStructures\obj\Debug\net7.0\RepeatingStructures.pdb
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\RepeatingStructures\RepeatingStructures\obj\Debug\net7.0\RepeatingStructures.genruntimeconfig.cache
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\RepeatingStructures\RepeatingStructures\obj\Debug\net7.0\ref\RepeatingStructures.dll
