@@ -1,0 +1,15 @@
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\IntroductionOOP\IntroductionOOP\bin\Debug\net7.0\IntroductionOOP.exe
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\IntroductionOOP\IntroductionOOP\bin\Debug\net7.0\IntroductionOOP.deps.json
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\IntroductionOOP\IntroductionOOP\bin\Debug\net7.0\IntroductionOOP.runtimeconfig.json
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\IntroductionOOP\IntroductionOOP\bin\Debug\net7.0\IntroductionOOP.dll
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\IntroductionOOP\IntroductionOOP\bin\Debug\net7.0\IntroductionOOP.pdb
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\IntroductionOOP\IntroductionOOP\obj\Debug\net7.0\IntroductionOOP.csproj.AssemblyReference.cache
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\IntroductionOOP\IntroductionOOP\obj\Debug\net7.0\IntroductionOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\IntroductionOOP\IntroductionOOP\obj\Debug\net7.0\IntroductionOOP.AssemblyInfoInputs.cache
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\IntroductionOOP\IntroductionOOP\obj\Debug\net7.0\IntroductionOOP.AssemblyInfo.cs
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\IntroductionOOP\IntroductionOOP\obj\Debug\net7.0\IntroductionOOP.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\IntroductionOOP\IntroductionOOP\obj\Debug\net7.0\IntroductionOOP.dll
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\IntroductionOOP\IntroductionOOP\obj\Debug\net7.0\refint\IntroductionOOP.dll
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\IntroductionOOP\IntroductionOOP\obj\Debug\net7.0\IntroductionOOP.pdb
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\IntroductionOOP\IntroductionOOP\obj\Debug\net7.0\IntroductionOOP.genruntimeconfig.cache
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\IntroductionOOP\IntroductionOOP\obj\Debug\net7.0\ref\IntroductionOOP.dll
