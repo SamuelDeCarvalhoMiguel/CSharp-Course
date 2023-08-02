@@ -1,0 +1,15 @@
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\Chapter5OOP\Chapter5OOP\bin\Debug\net7.0\Chapter5OOP.exe
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\Chapter5OOP\Chapter5OOP\bin\Debug\net7.0\Chapter5OOP.deps.json
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\Chapter5OOP\Chapter5OOP\bin\Debug\net7.0\Chapter5OOP.runtimeconfig.json
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\Chapter5OOP\Chapter5OOP\bin\Debug\net7.0\Chapter5OOP.dll
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\Chapter5OOP\Chapter5OOP\bin\Debug\net7.0\Chapter5OOP.pdb
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\Chapter5OOP\Chapter5OOP\obj\Debug\net7.0\Chapter5OOP.csproj.AssemblyReference.cache
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\Chapter5OOP\Chapter5OOP\obj\Debug\net7.0\Chapter5OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\Chapter5OOP\Chapter5OOP\obj\Debug\net7.0\Chapter5OOP.AssemblyInfoInputs.cache
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\Chapter5OOP\Chapter5OOP\obj\Debug\net7.0\Chapter5OOP.AssemblyInfo.cs
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\Chapter5OOP\Chapter5OOP\obj\Debug\net7.0\Chapter5OOP.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\Chapter5OOP\Chapter5OOP\obj\Debug\net7.0\Chapter5OOP.dll
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\Chapter5OOP\Chapter5OOP\obj\Debug\net7.0\refint\Chapter5OOP.dll
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\Chapter5OOP\Chapter5OOP\obj\Debug\net7.0\Chapter5OOP.pdb
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\Chapter5OOP\Chapter5OOP\obj\Debug\net7.0\Chapter5OOP.genruntimeconfig.cache
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\Chapter5OOP\Chapter5OOP\obj\Debug\net7.0\ref\Chapter5OOP.dll
