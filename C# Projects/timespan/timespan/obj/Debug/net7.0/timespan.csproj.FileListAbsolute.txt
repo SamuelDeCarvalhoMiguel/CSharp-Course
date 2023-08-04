@@ -1,0 +1,15 @@
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\timespan\timespan\bin\Debug\net7.0\timespan.exe
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\timespan\timespan\bin\Debug\net7.0\timespan.deps.json
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\timespan\timespan\bin\Debug\net7.0\timespan.runtimeconfig.json
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\timespan\timespan\bin\Debug\net7.0\timespan.dll
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\timespan\timespan\bin\Debug\net7.0\timespan.pdb
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\timespan\timespan\obj\Debug\net7.0\timespan.csproj.AssemblyReference.cache
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\timespan\timespan\obj\Debug\net7.0\timespan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\timespan\timespan\obj\Debug\net7.0\timespan.AssemblyInfoInputs.cache
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\timespan\timespan\obj\Debug\net7.0\timespan.AssemblyInfo.cs
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\timespan\timespan\obj\Debug\net7.0\timespan.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\timespan\timespan\obj\Debug\net7.0\timespan.dll
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\timespan\timespan\obj\Debug\net7.0\refint\timespan.dll
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\timespan\timespan\obj\Debug\net7.0\timespan.pdb
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\timespan\timespan\obj\Debug\net7.0\timespan.genruntimeconfig.cache
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\timespan\timespan\obj\Debug\net7.0\ref\timespan.dll
