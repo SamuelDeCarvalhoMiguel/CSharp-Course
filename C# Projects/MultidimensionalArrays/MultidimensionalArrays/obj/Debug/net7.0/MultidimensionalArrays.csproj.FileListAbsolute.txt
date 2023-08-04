@@ -1,0 +1,15 @@
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\net7.0\MultidimensionalArrays.exe
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\net7.0\MultidimensionalArrays.deps.json
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\net7.0\MultidimensionalArrays.runtimeconfig.json
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\net7.0\MultidimensionalArrays.dll
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\net7.0\MultidimensionalArrays.pdb
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\net7.0\MultidimensionalArrays.csproj.AssemblyReference.cache
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\net7.0\MultidimensionalArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\net7.0\MultidimensionalArrays.AssemblyInfoInputs.cache
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\net7.0\MultidimensionalArrays.AssemblyInfo.cs
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\net7.0\MultidimensionalArrays.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\net7.0\MultidimensionalArrays.dll
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\net7.0\refint\MultidimensionalArrays.dll
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\net7.0\MultidimensionalArrays.pdb
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\net7.0\MultidimensionalArrays.genruntimeconfig.cache
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\net7.0\ref\MultidimensionalArrays.dll
