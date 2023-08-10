@@ -1,0 +1,15 @@
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\Enum\Enum\bin\Debug\net7.0\Enumeration.exe
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\Enum\Enum\bin\Debug\net7.0\Enumeration.deps.json
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\Enum\Enum\bin\Debug\net7.0\Enumeration.runtimeconfig.json
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\Enum\Enum\bin\Debug\net7.0\Enumeration.dll
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\Enum\Enum\bin\Debug\net7.0\Enumeration.pdb
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\Enum\Enum\obj\Debug\net7.0\Enumeration.csproj.AssemblyReference.cache
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\Enum\Enum\obj\Debug\net7.0\Enumeration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\Enum\Enum\obj\Debug\net7.0\Enumeration.AssemblyInfoInputs.cache
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\Enum\Enum\obj\Debug\net7.0\Enumeration.AssemblyInfo.cs
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\Enum\Enum\obj\Debug\net7.0\Enumeration.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\Enum\Enum\obj\Debug\net7.0\Enumeration.dll
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\Enum\Enum\obj\Debug\net7.0\refint\Enumeration.dll
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\Enum\Enum\obj\Debug\net7.0\Enumeration.pdb
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\Enum\Enum\obj\Debug\net7.0\Enumeration.genruntimeconfig.cache
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\Enum\Enum\obj\Debug\net7.0\ref\Enumeration.dll

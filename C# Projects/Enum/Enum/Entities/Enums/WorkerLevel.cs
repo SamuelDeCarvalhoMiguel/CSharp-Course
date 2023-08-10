@@ -1,11 +1,13 @@
-﻿namespace Enum.Entities.Enums
+﻿using System;
+
+namespace Enumeration.Entities.Enums
 {
     enum WorkerLevel: int
     {
 
-        junior = 0,
-        mid_level = 1,
-        senior = 2
+        Junior = 0,
+        MidLevel = 1,
+        Senior = 2
 
     }
 }

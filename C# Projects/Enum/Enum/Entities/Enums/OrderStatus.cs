@@ -1,4 +1,4 @@
-﻿namespace Enum.Entities.Enums
+﻿namespace Enumeration.Entities.Enums
 {
     enum OrderStatus : int
     {

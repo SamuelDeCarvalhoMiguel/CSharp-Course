@@ -1,15 +1,16 @@
 ﻿using System;
-using Enum.Entities;
-using Enum.Entities.Enums;
+using Enumeration.Entities;
+using Enumeration.Entities.Enums;
 
-namespace Enum
+namespace Enumeration
 {
     class Program
     {
         static void Main(string[] args)
         {
 
-            example1();
+            //example1();
+            exercise1();
 
         }
 
@@ -43,6 +44,41 @@ namespace Enum
             Console.Write("Name: ");
             worker.Name = Console.ReadLine();
 
+            Console.Write("Level(Junior/MidLevel/Senior): ");
+            worker.Level = Enum.Parse<WorkerLevel>(Console.ReadLine());
+
+            Console.Write("Base salary: ");
+            worker.BaseSalary = double.Parse(Console.ReadLine());
+
+            Console.Write("How many contracts to this worker? ");
+            int contractAmount = int.Parse(Console.ReadLine());
+
+            HourContract hourContract = new HourContract();
+
+            for (int i = 0; i < contractAmount; i++)
+            {
+
+                Console.WriteLine($"Enter {i + 1}º contract data: ");
+                Console.Write("Date(DD/MM/YYYY): ");
+                hourContract.Date = DateTime.Parse(Console.ReadLine());
+
+                Console.Write("Value per hour: ");
+                hourContract.ValuePerHour = double.Parse(Console.ReadLine());
+
+                Console.Write("Duration (Hours): ");
+                hourContract.Hours = int.Parse(Console.ReadLine());
+
+                worker.AddContract(hourContract);
+            }
+
+            Console.Write("Enter month and year to calculate income (MM/YYYY): ");
+            string[] monthAndYear = Console.ReadLine().Split('/');
+            int month = int.Parse(monthAndYear[0]);
+            int year = int.Parse(monthAndYear[0]);
+
+            Console.WriteLine($"Name: {worker.Name}");
+            Console.WriteLine($"Department: {department.Name}");
+            Console.WriteLine($"Income for {monthAndYear[0]}/{monthAndYear[1]}: {worker.Income(year, month)}");
 
         }
     }

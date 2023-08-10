@@ -4,11 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Enum.Entities
+namespace Enumeration.Entities
 {
     internal class Department
     {
         public string Name { get; set; }
+
+        public Department() { }
+
+        public Department(string name) { }
+
 
     }
 }

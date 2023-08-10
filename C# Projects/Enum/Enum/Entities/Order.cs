@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Enum.Entities.Enums;
+using Enumeration.Entities.Enums;
 
-namespace Enum.Entities
+namespace Enumeration.Entities
 {
     internal class Order
     {

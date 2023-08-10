@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sam\\Documents\\CSharp-Course\\C# Projects\\Enum\\Enum\\Enum.csproj",
-      "projectName": "Enum",
-      "projectPath": "C:\\Users\\Sam\\Documents\\CSharp-Course\\C# Projects\\Enum\\Enum\\Enum.csproj",
+      "projectUniqueName": "C:\\Users\\Sam\\Documents\\CSharp-Course\\C# Projects\\Enum\\Enum\\Enumeration.csproj",
+      "projectName": "Enumeration",
+      "projectPath": "C:\\Users\\Sam\\Documents\\CSharp-Course\\C# Projects\\Enum\\Enum\\Enumeration.csproj",
       "packagesPath": "C:\\Users\\Sam\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Sam\\Documents\\CSharp-Course\\C# Projects\\Enum\\Enum\\obj\\",
       "projectStyle": "PackageReference",
