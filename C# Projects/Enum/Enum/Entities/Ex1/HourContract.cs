@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Enumeration.Entities
+namespace Enumeration.Entities.Ex1
 {
     internal class HourContract
     {
@@ -24,7 +24,7 @@ namespace Enumeration.Entities
 
         }
 
-        public double TotalValue( )
+        public double TotalValue()
         {
 
             return Hours * ValuePerHour;

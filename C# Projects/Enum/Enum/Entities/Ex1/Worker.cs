@@ -1,8 +1,7 @@
 ﻿using Enumeration.Entities.Enums;
-using Enumeration.Entities;
 using System.Collections.Generic;
 
-namespace Enumeration.Entities
+namespace Enumeration.Entities.Ex1
 {
     class Worker
     {
