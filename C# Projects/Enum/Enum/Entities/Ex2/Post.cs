@@ -13,13 +13,12 @@ namespace Enumeration.Entities.Ex2
         public string Title { get; set; }
         public string Content { get; set; }
         public int Likes { get; set; }
-        public List<Comment> Comment { get; set; } = new List<Comment>();
+        List<Comment> Comment { get; set; } = new List<Comment>();
 
         public Post() { }
 
         public Post(DateTime moment, string title, string content, int likes)
         {
-
             Moment = moment;
             Title = title;
             Content = content;
@@ -27,14 +26,14 @@ namespace Enumeration.Entities.Ex2
 
         }
 
-        public void AddComment(Comment text)
+        public void AddComment(Comment comment)
         {
-            Comment.Add(text);
+            Comment.Add(comment);
         }
 
-        public void RemoveComment(Comment text)
+        public void RemoveComment(Comment comment)
         {
-            Comment.Remove(text);
+            Comment.Remove(comment);
         }
 
         public override string ToString()
@@ -45,14 +44,15 @@ namespace Enumeration.Entities.Ex2
             sb.AppendLine(Title);
             sb.Append(Likes);
             sb.Append(" Likes - ");
-            sb.AppendLine(Moment.ToString("dd/MM/yyyy HH:mm:ss"));
+            sb.AppendLine(Moment.ToString());
             sb.AppendLine(Content);
             sb.AppendLine("Comments: ");
-
-            foreach (Comment c in Comment)
+            foreach (Comment comment in Comment)
             {
-                sb.AppendLine(c.Text);
+                sb.AppendLine(comment.Text);
             }
+
+
 
             return sb.ToString();
         }

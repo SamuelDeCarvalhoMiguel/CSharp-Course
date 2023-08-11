@@ -1,17 +1,19 @@
-﻿
-using System.Globalization;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace Enumeration.Entities
+namespace Enumeration.Entities.Ex3
 {
-    class OrderItem
+    internal class OrderItem
     {
+
         public int Quantity { get; set; }
         public double Price { get; set; }
         public Product Product { get; set; }
 
-        public OrderItem()
-        {
-        }
+        public OrderItem() { }
 
         public OrderItem(int quantity, double price, Product product)
         {
@@ -22,18 +24,10 @@ namespace Enumeration.Entities
 
         public double SubTotal()
         {
-            return Price * Quantity;
+
+            return Quantity * Price;
+
         }
 
-        public override string ToString()
-        {
-            return Product.Name
-                + ", $"
-                + Price.ToString("F2", CultureInfo.InvariantCulture)
-                + ", Quantity: "
-                + Quantity
-                + ", Subtotal: $"
-                + SubTotal().ToString("F2", CultureInfo.InvariantCulture);
-        }
     }
 }

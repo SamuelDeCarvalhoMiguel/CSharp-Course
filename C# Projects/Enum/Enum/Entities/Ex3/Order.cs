@@ -1,22 +1,22 @@
-﻿using System;
-using System.Text;
-using System.Globalization;
+﻿using Enumeration.Entities.Enums;
+using Enumeration.Entities.Ex3;
+using System;
 using System.Collections.Generic;
-using Enumeration.Entities.Enums;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-
-namespace Enumeration.Entities
+namespace Enumeration.Entities.Ex3
 {
-    class Order
+    internal class Order
     {
+
         public DateTime Moment { get; set; }
         public OrderStatus Status { get; set; }
-        public Client Client { get; set; }
-        public List<OrderItem> Items { get; set; } = new List<OrderItem>();
+        public List<OrderItem> OrderItem { get; set; } = new List<OrderItem>();
+        public Client Client { get; set; } = new Client();
 
-        public Order()
-        {
-        }
+        public Order() { }
 
         public Order(DateTime moment, OrderStatus status, Client client)
         {
@@ -27,37 +27,47 @@ namespace Enumeration.Entities
 
         public void AddItem(OrderItem item)
         {
-            Items.Add(item);
+            OrderItem.Add(item);
         }
 
         public void RemoveItem(OrderItem item)
         {
-            Items.Remove(item);
+            OrderItem.Remove(item);
         }
 
         public double Total()
         {
-            double sum = 0.0;
-            foreach (OrderItem item in Items)
+
+            double sum = 0;
+
+            foreach(OrderItem item in OrderItem)
             {
                 sum += item.SubTotal();
             }
+
             return sum;
+
         }
 
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine("Order moment: " + Moment.ToString("dd/MM/yyyy HH:mm:ss"));
-            sb.AppendLine("Order status: " + Status);
-            sb.AppendLine("Client: " + Client);
-            sb.AppendLine("Order items:");
-            foreach (OrderItem item in Items)
+
+            sb.AppendLine("ORDER SUMMARY: ");
+            sb.AppendLine($"Order moment: {Moment.ToString()}");
+            sb.AppendLine($"Order status: {Status.ToString()}");
+            sb.AppendLine($"Client: {Client.Name} ({Client.BirthDate.ToString("dd/MM/yyyy")}) - {Client.Email}");
+            sb.AppendLine("Order items: ");
+            foreach(OrderItem orderItem in OrderItem)
             {
-                sb.AppendLine(item.ToString());
+
+                sb.AppendLine($"{orderItem.Product.Name}, ${orderItem.Price}, Quantity: {orderItem.Quantity}, Subtotal: ${orderItem.Product.Price}");
+
             }
-            sb.AppendLine("Total price: $" + Total().ToString("F2", CultureInfo.InvariantCulture));
+
             return sb.ToString();
+
         }
+
     }
 }
