@@ -1,6 +1,8 @@
 ﻿using System;
 using Inheritance.Entities;
 using Inheritance.Entities.Examples;
+using Inheritance.Entities.Ex1;
+using Inheritance.Entities.Ex2;
 
 namespace Inheritance
 {
@@ -11,7 +13,9 @@ namespace Inheritance
 
             //Example1();
             //Example2();
-            Example3();
+            //Example3();
+            //exercise1();
+            exercise2();
 
         }
 
@@ -71,6 +75,106 @@ namespace Inheritance
 
             Console.WriteLine(acc1.Balance);
             Console.WriteLine(acc2.Balance);
+
+        }
+
+        static void exercise1()
+        {
+
+            Console.Write("Enter the number of employees: ");
+            int amount = int.Parse(Console.ReadLine());
+
+            List<Employee> employees = new List<Employee>();
+
+            for(int i = 0; i < amount; i++)
+            {
+
+                Console.WriteLine($"Employee {i + 1}º data:");
+
+                Console.Write("Outsourced (y/n)? ");
+                char outsourced = char.Parse(Console.ReadLine());
+
+                Console.Write("Name: ");
+                string name = Console.ReadLine();
+
+                Console.Write("Hours: ");
+                int hours = int.Parse(Console.ReadLine());
+
+                Console.Write("Value per hour: ");
+                double valuePerHour = double.Parse(Console.ReadLine());
+
+                if  (outsourced == 'y')
+                {
+                    Console.Write("Additional charge: ");
+                    double additionalCharge = double.Parse(Console.ReadLine());
+
+                    employees.Add(new OutSourcedEmployee(name, hours, valuePerHour, additionalCharge));
+                }
+
+                else
+                {
+                    employees.Add(new Employee(name, hours, valuePerHour));
+                }
+
+            }
+
+            Console.WriteLine("PAYMENTS: ");
+
+            foreach (Employee emp in employees)
+            {
+                Console.WriteLine($"{emp.Name} - ${emp.Payment():f2}");
+            }
+
+        }
+
+        static void exercise2()
+        {
+
+            Console.Write("Enter the number of products: ");
+            int amount = int.Parse(Console.ReadLine());
+
+            List<Product> products = new List<Product>();
+
+            for (int i = 1; i <= amount; i++)
+            {
+
+                Console.WriteLine($"Product {i}º data:");
+                Console.Write("Common, used or imported (c/u/i)? ");
+                char productType = char.Parse(Console.ReadLine());
+
+                Console.Write("Name: ");
+                string productName = Console.ReadLine();
+
+                Console.Write("Price: ");
+                double price = double.Parse(Console.ReadLine());
+
+                if (productType == 'i')
+                {
+                    Console.Write("Custmos Fee: ");
+                    double customsFee = double.Parse(Console.ReadLine());
+
+                    products.Add(new ImportedProduct(productName, price, customsFee));
+                }
+
+                else if (productType == 'u')
+                {
+                    Console.Write("Manufacture date (DD/MM/YYYY): ");
+                    DateTime manufactureDate = DateTime.Parse(Console.ReadLine());
+
+                    products.Add(new UsedProduct(productName, price, manufactureDate));
+                }
+                
+                else
+                    products.Add(new Product(productName, price));
+
+            }
+
+            Console.WriteLine("PRICE TAGS: ");
+
+            foreach (Product product in products)
+            {
+                Console.WriteLine(product.PriceTag());
+            }
 
         }
     }
