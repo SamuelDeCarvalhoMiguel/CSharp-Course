@@ -1,0 +1,15 @@
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\AbstractClassAndMethods\AbstractClassAndMethods\bin\Debug\net7.0\AbstractClassAndMethods.exe
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\AbstractClassAndMethods\AbstractClassAndMethods\bin\Debug\net7.0\AbstractClassAndMethods.deps.json
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\AbstractClassAndMethods\AbstractClassAndMethods\bin\Debug\net7.0\AbstractClassAndMethods.runtimeconfig.json
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\AbstractClassAndMethods\AbstractClassAndMethods\bin\Debug\net7.0\AbstractClassAndMethods.dll
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\AbstractClassAndMethods\AbstractClassAndMethods\bin\Debug\net7.0\AbstractClassAndMethods.pdb
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\AbstractClassAndMethods\AbstractClassAndMethods\obj\Debug\net7.0\AbstractClassAndMethods.csproj.AssemblyReference.cache
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\AbstractClassAndMethods\AbstractClassAndMethods\obj\Debug\net7.0\AbstractClassAndMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\AbstractClassAndMethods\AbstractClassAndMethods\obj\Debug\net7.0\AbstractClassAndMethods.AssemblyInfoInputs.cache
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\AbstractClassAndMethods\AbstractClassAndMethods\obj\Debug\net7.0\AbstractClassAndMethods.AssemblyInfo.cs
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\AbstractClassAndMethods\AbstractClassAndMethods\obj\Debug\net7.0\AbstractClassAndMethods.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\AbstractClassAndMethods\AbstractClassAndMethods\obj\Debug\net7.0\AbstractClassAndMethods.dll
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\AbstractClassAndMethods\AbstractClassAndMethods\obj\Debug\net7.0\refint\AbstractClassAndMethods.dll
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\AbstractClassAndMethods\AbstractClassAndMethods\obj\Debug\net7.0\AbstractClassAndMethods.pdb
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\AbstractClassAndMethods\AbstractClassAndMethods\obj\Debug\net7.0\AbstractClassAndMethods.genruntimeconfig.cache
+C:\Users\Sam\Documents\CSharp-Course\C# Projects\AbstractClassAndMethods\AbstractClassAndMethods\obj\Debug\net7.0\ref\AbstractClassAndMethods.dll
