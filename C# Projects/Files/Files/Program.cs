@@ -49,9 +49,9 @@ namespace Files
 
         while (!streamReader.EndOfStream) 
         { 
-        string line = streamReader.ReadLine();
+          string line = streamReader.ReadLine();
 
-        Console.WriteLine(line);
+          Console.WriteLine(line);
         }
       }
       catch (IOException fileException)
