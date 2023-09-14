@@ -8,7 +8,8 @@ namespace Files
     static void Main(string[] args)
     {
 
-      example1();
+      //example1();
+      example2();
     }
 
     static void example1()
@@ -32,6 +33,38 @@ namespace Files
       {
         Console.WriteLine("An error occurred!");
         Console.WriteLine(fileException.Message);
+      }
+    }
+    static void example2()
+    {
+      string path = @"C:\Users\Sam\Documents\CSharp-Course\C# Projects\Files\Doc.txt";
+
+      FileStream fileStream = null;
+      StreamReader streamReader = null;
+
+      try
+      {
+        fileStream = new FileStream(path, FileMode.Open);
+        streamReader = new StreamReader(fileStream);
+
+        while (!streamReader.EndOfStream) 
+        { 
+        string line = streamReader.ReadLine();
+
+        Console.WriteLine(line);
+        }
+      }
+      catch (IOException fileException)
+      {
+        Console.WriteLine("An error occurred!");
+        Console.WriteLine(fileException.Message);
+      }
+      finally 
+      {
+        if (streamReader != null) 
+          streamReader.Close();
+        if (fileStream != null)
+          fileStream.Close();
       }
     }
   }
