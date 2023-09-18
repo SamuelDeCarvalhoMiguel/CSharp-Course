@@ -9,7 +9,8 @@ namespace Files
     {
 
       //example1();
-      example2();
+      //example2();
+      example3();
     }
 
     static void example1()
@@ -47,8 +48,8 @@ namespace Files
         fileStream = new FileStream(path, FileMode.Open);
         streamReader = new StreamReader(fileStream);
 
-        while (!streamReader.EndOfStream) 
-        { 
+        while (!streamReader.EndOfStream)
+        {
           string line = streamReader.ReadLine();
 
           Console.WriteLine(line);
@@ -59,14 +60,38 @@ namespace Files
         Console.WriteLine("An error occurred!");
         Console.WriteLine(fileException.Message);
       }
-      finally 
+      finally
       {
-        if (streamReader != null) 
+        if (streamReader != null)
           streamReader.Close();
         if (fileStream != null)
           fileStream.Close();
       }
     }
+
+    static void example3()
+    {
+
+      string path = @"C:\Users\Sam\Documents\CSharp-Course\C# Projects\Files\Doc2.txt";
+
+      try
+      {
+        using (StreamReader streamReader = File.OpenText(path))
+        {
+          while (!streamReader.EndOfStream)
+          {
+            string line = streamReader.ReadLine();
+            Console.WriteLine(line);
+          }
+        }
+      }
+      catch (IOException exception)
+      {
+        Console.WriteLine("An error occurred");
+        Console.WriteLine(exception.Message);
+      }
+    }
+
   }
 }
 
