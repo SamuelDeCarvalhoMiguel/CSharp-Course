@@ -10,7 +10,8 @@ namespace Files
 
       //example1();
       //example2();
-      example3();
+      //example3();
+      example4();
     }
 
     static void example1()
@@ -92,6 +93,29 @@ namespace Files
       }
     }
 
+    static void example4()
+    {
+      string sourcePath = @"C:\Users\Sam\Documents\CSharp-Course\C# Projects\Files\Doc.txt";
+      string targetPath = @"C:\Users\Sam\Documents\CSharp-Course\C# Projects\Files\Doc2.txt";
+
+      try
+      {
+        string[] lines = File.ReadAllLines(sourcePath);
+
+        using (StreamWriter streamWriter = File.AppendText(targetPath))
+        {
+          foreach (string line in lines)
+          {
+            streamWriter.WriteLine(line.ToUpper());
+          }
+        }
+      }
+      catch (IOException fileException)
+      {
+        Console.WriteLine("An error occurred!");
+        Console.WriteLine(fileException.Message);
+      }
+    }
   }
 }
 
