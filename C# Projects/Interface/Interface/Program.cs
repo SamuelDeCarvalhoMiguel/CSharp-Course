@@ -1,8 +1,10 @@
 ﻿using System;
 using System.Diagnostics.Contracts;
 using System.Globalization;
+using Interface.Model.Entities;
 using Interface.Entities;
 using Interface.Services;
+using Interface.Enums;
 
 namespace Interface
 {
@@ -12,7 +14,8 @@ namespace Interface
     {
       //example1();
       //example2();
-      exercise1();
+      //exercise1();
+      example3();
 
     }
 
@@ -95,6 +98,14 @@ namespace Interface
       Console.WriteLine("INVOICE:");
       Console.WriteLine(carRental.Invoice);
 
+    }
+
+    static void example3()
+    {
+      IShape s1 = new Circle() { Radius = 2.0, Color = Colors.White };
+      IShape s2 = new Rectangle() { Width = 3.5, Height = 4.2, Color = Colors.Black };
+      Console.WriteLine(s1);
+      Console.WriteLine(s2);
     }
 
     static void exercise1()
