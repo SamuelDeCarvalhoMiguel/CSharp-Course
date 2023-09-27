@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Course.Entities
+namespace Interface.Entities
 {
   class CarRental
   {

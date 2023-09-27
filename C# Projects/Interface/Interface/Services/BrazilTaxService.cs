@@ -1,4 +1,4 @@
-﻿namespace Course.Services
+﻿namespace Interface.Services
 {
   class BrazilTaxService : ITaxService
   {

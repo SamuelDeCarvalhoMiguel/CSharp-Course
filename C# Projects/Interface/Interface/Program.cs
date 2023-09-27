@@ -1,7 +1,8 @@
 ﻿using System;
+using System.Diagnostics.Contracts;
 using System.Globalization;
-using Course.Entities;
-using Course.Services;
+using Interface.Entities;
+using Interface.Services;
 
 namespace Interface
 {
@@ -10,7 +11,8 @@ namespace Interface
     static void Main(string[] args)
     {
       //example1();
-      example2();
+      //example2();
+      exercise1();
 
     }
 
@@ -93,6 +95,32 @@ namespace Interface
       Console.WriteLine("INVOICE:");
       Console.WriteLine(carRental.Invoice);
 
+    }
+
+    static void exercise1()
+    {
+
+      Console.WriteLine("Enter contract data");
+      Console.Write("Number: ");
+      int contractNumber = int.Parse(Console.ReadLine());
+      Console.Write("Date (dd/MM/yyyy): ");
+      DateTime contractDate = DateTime.ParseExact(Console.ReadLine(), "dd/MM/yyyy", CultureInfo.InvariantCulture);
+      Console.Write("Contracts value: ");
+      double contractValue = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+      Console.Write("Enter number of installments: ");
+      int months = int.Parse(Console.ReadLine());
+
+      Contracts myContract = new Contracts(contractNumber, contractDate, contractValue);
+
+      ContractService contractService = new ContractService(new PaypalService());
+      contractService.ProcessContract(myContract, months);
+
+      Console.WriteLine("Installments:");
+      foreach (Installment installment in myContract.Installments)
+      {
+        Console.WriteLine(installment);
+
+      }
     }
   }
 }

@@ -1,4 +1,4 @@
-﻿namespace Course.Entities
+﻿namespace Interface.Entities
 {
   class Vehicle
   {
