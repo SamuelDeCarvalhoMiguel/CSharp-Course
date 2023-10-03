@@ -11,7 +11,7 @@ namespace Generics
 
     static void example1()
     {
-      PrintService printService = new PrintService();
+      PrintService<int> printService = new PrintService<int>();
 
       Console.Write("How many values? ");
       int valuesAmount = int.Parse(Console.ReadLine());

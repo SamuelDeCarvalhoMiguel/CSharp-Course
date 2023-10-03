@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace Generics.Services
 {
-  class PrintService
+  class PrintService<T>
   {
-    private int[] ValuesList = new int[10];
+    private T[] ValuesList = new T[10];
     private int Count = 0;
 
     public PrintService() { }
 
-    public void AddValue(int value)
+    public void AddValue(T value)
     {
       if (Count == 10)
       {
@@ -23,7 +23,7 @@ namespace Generics.Services
       Count++;
     }
 
-    public int FirstValue()
+    public T FirstValue()
     {
       if (Count == 0)
       {
