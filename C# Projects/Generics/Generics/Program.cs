@@ -1,4 +1,5 @@
-﻿using Generics.Services;
+﻿using Generics.Entities;
+using Generics.Services;
 
 namespace Generics
 {
@@ -6,7 +7,8 @@ namespace Generics
   {
     static void Main(string[] args)
     {
-      example1();
+      //example1();
+      example2();
     }
 
     static void example1()
@@ -18,11 +20,34 @@ namespace Generics
 
       for (int i = 0; i < valuesAmount; i++)
       {
-        int values = int .Parse(Console.ReadLine());
+        int values = int.Parse(Console.ReadLine());
         printService.AddValue(values);
       }
 
       printService.Print();
+    }
+
+    static void example2()
+    {
+      List<Product> list = new List<Product>();
+
+      Console.Write("Enter amount of products: ");
+      int amount = int.Parse(Console.ReadLine());
+
+      for (int i = 0; i < amount; i++)
+      {
+        string[] productData = Console.ReadLine().Split(',');
+        string productName = productData[0];
+        double productValue = double.Parse(productData[1]);
+        list.Add(new Product(productName, productValue));
+      }
+
+      CalculationService calculationService = new CalculationService();
+
+      Product highestValueProduct = calculationService.HighestValue(list);
+
+      Console.WriteLine("Max: ");
+      Console.WriteLine(highestValueProduct);
     }
   }
 }
