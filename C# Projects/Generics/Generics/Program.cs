@@ -8,7 +8,8 @@ namespace Generics
     static void Main(string[] args)
     {
       //example1();
-      example2();
+      //example2();
+      example3();
     }
 
     static void example1()
@@ -49,5 +50,20 @@ namespace Generics
       Console.WriteLine("Max: ");
       Console.WriteLine(highestValueProduct);
     }
+
+    static void example3()
+    {
+
+      Client firstClient = new Client { Name = "Maria", Email = "maria@gmail.com" };
+      Client secondClient = new Client { Name = "Alex", Email = "alex@gmail.com" };
+
+      Console.WriteLine(firstClient.Equals(secondClient));
+      Console.WriteLine(firstClient == secondClient);
+      Console.WriteLine(firstClient.GetHashCode());
+      Console.WriteLine(secondClient.GetHashCode());
+
+
+    }
+
   }
 }
